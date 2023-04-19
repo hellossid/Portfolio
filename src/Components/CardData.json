@@ -1,0 +1,8 @@
+[
+    {
+        "view": "https://gaslight.netlify.app/",
+        "source": "https://github.com/hellossid/gasLight",
+        "title": "gasLight",
+        "desc": "A social media web-app. You can create your account, upload pictures and comment on others posts. Its a Full-Stack project where the Frontend is handled by ReactJS and Backend Database, Storage and Authentication is handled by Firebase. This is just a prototype with many more features to be added. Happy gasLighting :)"
+    }
+]
