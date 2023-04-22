@@ -15,6 +15,7 @@ function Work() {
                             source={value.source}
                             title={value.title}
                             desc={value.desc}
+                            image={(value.image)}
                         />
                     )
                 })}

@@ -3,6 +3,14 @@
         "view": "https://gaslight.netlify.app/",
         "source": "https://github.com/hellossid/gasLight",
         "title": "gasLight",
+        "image": "https://firebasestorage.googleapis.com/v0/b/image-6b717.appspot.com/o/photo1.jpg?alt=media&token=b38cd75b-c0c3-4426-948f-0a714213c249",
         "desc": "A social media web-app. You can create your account, upload pictures and comment on others posts. Its a Full-Stack project where the Frontend is handled by ReactJS and Backend Database, Storage and Authentication is handled by Firebase. This is just a prototype with many more features to be added. Happy gasLighting :)"
+    },
+    {
+        "view": "url.com",
+        "source": "https://github.com/hellossid/MinorProject",
+        "title": "Packers & Movers",
+        "image": "https://firebasestorage.googleapis.com/v0/b/image-6b717.appspot.com/o/photo2.jpeg?alt=media&token=2ce1d674-4192-4284-b653-a8628bc1ec91",
+        "desc": "Major Frontend development using ReactJS in this group project. Users can login and register to book movers. Features include selecting origin and destination states, selecting movers from available list and finally booking and filling the checkout form. Project includes ReactJs, Node Js, Express Js, MongoDB, Mongoose."
     }
 ]

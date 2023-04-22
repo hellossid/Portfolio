@@ -1,5 +1,6 @@
 import React from 'react'
 import './Hero.css'
+import resume from '../Resume.pdf'
 
 function Hero() {
   return (
@@ -11,7 +12,7 @@ function Hero() {
             <p>HI, I'M SIDDHARTH</p>
             <h1>Web Developer.</h1>
             <div>
-                <a className='btn' href="/project">Projects</a>
+                <a className='btn' href={resume} download>Resume</a>
                 <a className='btn btn-light' href="/contact">Contact</a>
             </div>
         </div>

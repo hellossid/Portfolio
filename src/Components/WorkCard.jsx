@@ -1,8 +1,7 @@
 import React from 'react'
 import './WorkCard.css'
-import image from './thumbnail.png'
 
-function WorkCard({view,source,title,desc}) {
+function WorkCard({view,source,title,desc,image}) {
     return (
         <div className='project-card'>
             <img src= {image} alt="img" />
